@@ -1,5 +1,5 @@
 {
-  "name": "serial to socket gateawy",
+  "name": "serial to socket gateaway",
   "version": "1.0.0",
   "slug": "ser2sock",
   "description": "Implementation of ser2sock for Home Assistant.",
