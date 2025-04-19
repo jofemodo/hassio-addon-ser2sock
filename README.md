@@ -8,9 +8,9 @@ Default configuration:
 
 ```
 {
-  "serialDevice": "/dev/ttyAMA0",
-  "baudRate": 115200,
-  "port": 8100
+  "serialDevice": "/dev/hidraw0",
+  "baudRate": 2400,
+  "port": 4001
 }
 ```
 
